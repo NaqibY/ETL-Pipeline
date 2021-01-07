@@ -103,23 +103,4 @@ except mysql.connector.Error as err:
 
 print('transfer complete')
 conn.close()
-  
-
-
-
-# yt='7/27/2012'
-
-# ty=yt.split('/')
-
-# # now=datetime.date(int(ty[-1]),int(ty[0]),int(ty[1]))
-
-# # nu=datetime.datetime.now()
-
-# # x=lambda s: s-1
-
-# # print(x(2))
-
-
-# x =lambda a: datetime.date(int(a[-1]),int(a[0]),int(a[1]))
-
-# print(x(ty))
+ 
