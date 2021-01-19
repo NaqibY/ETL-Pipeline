@@ -148,7 +148,7 @@ Before we execute the program, open ```setup/config.json``` edit accordingly.
 		"DATABASE": names_of_database,
 		"PASSWORD": mysql_password,
 		"download_url":"http://eforexcel.com/wp/wp-content/uploads/2017/07/50000-Sales-Records.zip",
-		"destination_folder":"/home/naqib/Documents/programming/Coursera/project/ETL Python/setup/data/"
+		"destination_folder":"/ETL Python/setup/data/"
         }
  ```
 
