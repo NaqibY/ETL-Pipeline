@@ -1,11 +1,11 @@
 {
     "mysql": {
-                    "USER":"dbeaver_mysql",
+                    "USER":"mysql",
                     "HOST":"localhost",
                     "DATABASE": "sales_records",
-                    "PASSWORD": "729222",
+                    "PASSWORD": "pass_word",
                     "download_url":"http://eforexcel.com/wp/wp-content/uploads/2017/07/50000-Sales-Records.zip",
-                    "destination_folder":"/home/naqib/Documents/programming/Coursera/project/ETL Python/setup/data/"
+                    "destination_folder":"/home/naqib/Documents/git/Simple-Python-ETL/setup/data/"
     },
 
     "TARGET_DW": {

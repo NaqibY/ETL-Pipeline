@@ -1,3 +1,0 @@
-pip install mysql.connector
-pip3 install pytest
-
